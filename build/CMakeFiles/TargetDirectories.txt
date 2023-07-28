@@ -1,0 +1,3 @@
+/Users/timurmudarisov/C++ prep/Udacity/CppND-Capstone-Zoo-Escape/Zoo-Escape-Game/build/CMakeFiles/Zoo.dir
+/Users/timurmudarisov/C++ prep/Udacity/CppND-Capstone-Zoo-Escape/Zoo-Escape-Game/build/CMakeFiles/edit_cache.dir
+/Users/timurmudarisov/C++ prep/Udacity/CppND-Capstone-Zoo-Escape/Zoo-Escape-Game/build/CMakeFiles/rebuild_cache.dir
